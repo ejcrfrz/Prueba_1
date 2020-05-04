@@ -12,4 +12,5 @@ package prueba_1;
 public class cuack {
     String cuack;
    String cuack2;
+
 }
